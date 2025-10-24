@@ -131,11 +131,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
 
     /* USER CODE END WHILE */
-//	  char msg[] = "Hpppo\r\n";
-//	      printf(msg);
-//	 	 // HAL_UART_Transmit(&hlpuart1, (uint8_t*)msg, 7, HAL_MAX_DELAY);
-//	 	  HAL_Delay(1000);
-//    /* USER CODE BEGIN 3 */
+
   }
   /* USER CODE END 3 */
 }
