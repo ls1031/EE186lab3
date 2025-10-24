@@ -7,7 +7,7 @@ The I2C address of the accelerometer is (0011001b)
 Of the magnetometer (0011110b)
 
  (1 Point) What is the sub-address (SUB), and how does it differ from the I2C address?
-The sub-address is the address that is specifeid in the internal memory of the peripheral, the i2c address allows us to specify that specific peripheral but to specifiy a certain register in it we use the sub address.
+ The sub-address is the address that is specifeid in the internal memory of the peripheral, the i2c address allows us to specify that specific peripheral but to specifiy a certain register in it we use the sub address.
 
  (1 Point) To enable acceleration data measurement, we need to configure the CTRL1 register by
 selecting the data rate and setting the enable bits. What is the CTRL1 register address and what
